@@ -22,19 +22,19 @@
     "url": "https://portal.speedinvest.com",
     "icon": "https://icons.duckduckgo.com/ip3/portal.speedinvest.com.ico",
     "slug": "speedinvest-portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3042,
-    "timeDay": 6040,
-    "timeWeek": 3042,
-    "timeMonth": 3042,
-    "timeYear": 3042,
+    "status": "up",
+    "uptime": "97.73%",
+    "uptimeDay": "94.12%",
+    "uptimeWeek": "97.73%",
+    "uptimeMonth": "97.73%",
+    "uptimeYear": "97.73%",
+    "time": 4856,
+    "timeDay": 8667,
+    "timeWeek": 4856,
+    "timeMonth": 4856,
+    "timeYear": 4856,
     "dailyMinutesDown": {
-      "2024-04-19": 0
+      "2024-04-19": 85
     }
   },
   {
