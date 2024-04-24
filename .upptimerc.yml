@@ -3,7 +3,7 @@ owner: speedinvest-org # Your GitHub organization or username, where this reposi
 repo: upptime # The name of this repository
 
 workflowSchedule:
-  uptime: "*/15 * * * *"
+  uptime: "*/30 * * * *"
 
 sites:
   - name: Speedinvest
