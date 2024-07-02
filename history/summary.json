@@ -43,7 +43,7 @@
     "url": "https://portal-search.speedinvest.com",
     "icon": "https://icons.duckduckgo.com/ip3/portal-search.speedinvest.com.ico",
     "slug": "speedinvest-portal-search",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -55,6 +55,7 @@
     "timeMonth": 750,
     "timeYear": 751,
     "dailyMinutesDown": {
+      "2024-07-02": 0,
       "2024-05-03": 218
     }
   },
