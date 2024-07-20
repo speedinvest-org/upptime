@@ -45,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal-search.speedinvest.com.ico",
     "slug": "speedinvest-portal-search",
     "status": "up",
-    "uptime": "93.91%",
+    "uptime": "93.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "81.72%",
-    "uptimeYear": "93.91%",
+    "uptimeYear": "93.92%",
     "time": 761,
     "timeDay": 997,
     "timeWeek": 751,
@@ -89,17 +89,19 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 131,
-    "timeDay": 93,
-    "timeWeek": 147,
-    "timeMonth": 162,
-    "timeYear": 131,
-    "dailyMinutesDown": {}
+    "time": 134,
+    "timeDay": 227,
+    "timeWeek": 177,
+    "timeMonth": 168,
+    "timeYear": 134,
+    "dailyMinutesDown": {
+      "2024-07-20": 0
+    }
   }
 ]
