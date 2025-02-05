@@ -4,19 +4,19 @@
     "url": "https://www.speedinvest.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.speedinvest.com.ico",
     "slug": "speedinvest",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.52%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "97.15%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 261,
-    "timeDay": 182,
-    "timeWeek": 309,
-    "timeMonth": 304,
+    "timeDay": 194,
+    "timeWeek": 303,
+    "timeMonth": 302,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2025-02-05": 21
+      "2025-02-05": 41
     }
   },
   {
@@ -49,7 +49,7 @@
     "status": "down",
     "uptime": "94.58%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "29.09%",
+    "uptimeWeek": "28.89%",
     "uptimeMonth": "72.69%",
     "uptimeYear": "94.58%",
     "time": 795,
@@ -58,7 +58,7 @@
     "timeMonth": 721,
     "timeYear": 795,
     "dailyMinutesDown": {
-      "2025-02-05": 384,
+      "2025-02-05": 403,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
