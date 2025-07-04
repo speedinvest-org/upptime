@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 273,
-    "timeDay": 470,
-    "timeWeek": 337,
+    "timeDay": 285,
+    "timeWeek": 347,
     "timeMonth": 299,
     "timeYear": 283,
     "dailyMinutesDown": {
@@ -31,10 +31,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 1171,
-    "timeDay": 1226,
-    "timeWeek": 1131,
-    "timeMonth": 1115,
-    "timeYear": 1165,
+    "timeDay": 1118,
+    "timeWeek": 1159,
+    "timeMonth": 1122,
+    "timeYear": 1166,
     "dailyMinutesDown": {
       "2025-07-03": 36,
       "2025-03-10": 41,
@@ -47,7 +47,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal-search.speedinvest.com.ico",
     "slug": "speedinvest-portal-search",
     "status": "down",
-    "uptime": "62.89%",
+    "uptime": "62.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -58,7 +58,8 @@
     "timeMonth": 0,
     "timeYear": 812,
     "dailyMinutesDown": {
-      "2025-07-03": 622,
+      "2025-07-04": 117,
+      "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
@@ -222,8 +223,7 @@
       "2024-07-08": 519,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
-      "2024-07-05": 1440,
-      "2024-07-04": 1440
+      "2024-07-05": 1440
     }
   },
   {
@@ -238,9 +238,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 420,
-    "timeDay": 556,
-    "timeWeek": 450,
-    "timeMonth": 440,
+    "timeDay": 394,
+    "timeWeek": 458,
+    "timeMonth": 441,
     "timeYear": 425,
     "dailyMinutesDown": {}
   },
@@ -256,9 +256,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 86,
-    "timeWeek": 88,
-    "timeMonth": 134,
+    "timeDay": 103,
+    "timeWeek": 92,
+    "timeMonth": 135,
     "timeYear": 127,
     "dailyMinutesDown": {
       "2024-07-20": 23
