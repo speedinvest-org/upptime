@@ -10,10 +10,8 @@ sites:
     url: https://www.speedinvest.com
   - name: Speedinvest Portal
     url: https://portal.speedinvest.com
-  - name: Speedinvest Portal Search
-    url: https://portal-search.speedinvest.com
-  - name: Speedinvest Remote Desktop for Research
-    url: https://research.speedinvest.com
+  - name: Speedinvest Remote Desktop
+    url: $SI_REMOTE
   - name: Google
     url: https://www.google.com
 
