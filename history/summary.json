@@ -80,12 +80,12 @@
     "url": "https://portal.speedinvest.com",
     "icon": "https://icons.duckduckgo.com/ip3/portal.speedinvest.com.ico",
     "slug": "speedinvest-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.95%",
     "time": 1213,
     "timeDay": 1500,
     "timeWeek": 1286,
@@ -97,7 +97,8 @@
       "2025-09-09": 45,
       "2025-11-24": 59,
       "2025-12-02": 46,
-      "2026-02-28": 31
+      "2026-02-28": 31,
+      "2026-06-10": 5
     }
   },
   {
@@ -105,9 +106,9 @@
     "url": "$SI_REMOTE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "speedinvest-remote-desktop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -117,7 +118,8 @@
     "timeMonth": 422,
     "timeYear": 430,
     "dailyMinutesDown": {
-      "2026-02-27": 136
+      "2026-02-27": 136,
+      "2026-06-10": 0
     }
   },
   {
